@@ -1,0 +1,1 @@
+Chart and interpret stellar and planetary positions on a horoscope to predict future events and trends for a client or the general public.

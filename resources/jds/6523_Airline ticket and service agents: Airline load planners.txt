@@ -1,0 +1,1 @@
+Calculate load weights for compartments of aircraft using charts and computers. Plan load to distribute and balance cargo.

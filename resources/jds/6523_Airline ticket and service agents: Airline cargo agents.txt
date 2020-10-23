@@ -1,0 +1,1 @@
+Weigh cargo and compute freight costs, calculate charges for services and insurance, process bills of lading, cargo manifests and other documents. Trace lost or misdirected cargo and maintain shipping and other records.

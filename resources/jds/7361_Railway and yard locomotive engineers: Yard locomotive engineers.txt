@@ -1,0 +1,1 @@
+Operate locomotives to switch, couple and uncouple cars for loading and unloading. Perform switching operations according to written switching orders or dispatched instructions. Inspect locomotives, replenish fuel or perform routine maintenance on locomotives.

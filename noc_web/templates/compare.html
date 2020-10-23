@@ -1,0 +1,19 @@
+<h1>Job Code Title Picked.</h1>
+<!--<ul>-->
+    <!--<li>temp todo a</li>-->
+    <!--<li>temp todo b</li>-->
+<!--</ul>-->
+
+<!--<ul>-->
+    <!--<li>{{new_item.result_1}}</li>-->
+    <!--<li>{{new_item.result_2}}</li>-->
+    <!--<li>{{new_item.result_3}}</li>-->
+<!--</ul>-->
+<h2>Type your job title and description.</h2>
+
+<form action="/addTitleDescription/" method="post">{% csrf_token %}
+    <input type="text" name="title"/>
+    <textarea  name="description" rows="4" cols="50"></textarea>
+    <input type="submit" value="Submit"/>
+</form>
+

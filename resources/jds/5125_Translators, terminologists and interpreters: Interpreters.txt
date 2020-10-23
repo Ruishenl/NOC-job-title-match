@@ -1,0 +1,1 @@
+Translate sign language to a spoken language and vice versa either simultaneously or consecutively.

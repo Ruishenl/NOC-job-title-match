@@ -1,0 +1,10 @@
+Research Engineer
+Conduct cutting-edge research related to state-of-the-art machine learning, natural language processing, data mining, and image & video processing as directed by VP of Engineering
+Responsible for conducting research in key projects such as Content optimization and Trust and safety solutions
+Analyze and extract trends from internal data resources to help improve BBTV’s core business models
+Design and implement new algorithms in Python or other appropriate programming languages as directed by Tech Lead
+Work with the product and development teams to deliver efficient, maintainable, and scalable software
+Work together with development and QA teams to make sure that the designed algorithms become a robust product
+Provide critical feedback on our current algorithms and tools. Improve the performance of the current machine learning algorithms and solutions
+Provide product ideas that can benefit BBTV and expand the business
+Discover and recommend new areas and tools for innovation and technology growth

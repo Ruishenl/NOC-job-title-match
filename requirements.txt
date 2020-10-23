@@ -1,0 +1,4 @@
+scrapy
+numpy
+nltk
+beautifulsoup4pip

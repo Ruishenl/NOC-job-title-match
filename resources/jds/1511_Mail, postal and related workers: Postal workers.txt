@@ -1,0 +1,1 @@
+Sort mail according to destination; bundle, label, bag and route sorted mail to the proper delivery stream; and search directories to find the correct address for redirected mail.

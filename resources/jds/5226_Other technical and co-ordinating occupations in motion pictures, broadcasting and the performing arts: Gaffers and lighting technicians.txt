@@ -1,0 +1,1 @@
+Design and co-ordinate special effects such as fires, explosions and crashes.

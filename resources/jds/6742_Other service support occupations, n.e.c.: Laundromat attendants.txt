@@ -1,0 +1,1 @@
+Collect parking fees and issue ticket stubs. Direct customers to parking spaces and park cars.

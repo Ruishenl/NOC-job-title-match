@@ -1,0 +1,1 @@
+Receive customers' orders for classified advertising, write and edit copy, calculate advertising costs and bill customers.
